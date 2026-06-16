@@ -38,6 +38,155 @@ Open To:
 
 ---
 
+## 🏢 Some Professional Projects
+
+<table>
+<tr>
+<td width="25%">
+    
+### 🛒 E-Commerce Store
+
+**Highlights**
+
+* Product customization tool
+* Custom artwork overlay system
+* WooCommerce integration
+
+[Website](https://toranja.com/)
+<br/>
+</td>
+<td width="25%">
+
+### 🏭 Industrial Sector Website
+
+**Highlights**
+
+* Multi-level taxonomy architecture
+* Advanced search and filtering
+* Custom content management workflow
+
+[Website](https://mapengenhariaeconstrucao.pt/)
+
+<br/>
+</td>
+
+<td width="25%">
+
+### 💊 Healthcare Platform
+
+**Highlights**
+
+* External API integration
+* Complaints submission workflow
+* Custom form processing
+
+[Website](https://preveris.pt/)
+
+<br/>
+</td>
+<td width="25%">
+
+### 🏠 Corporate Website
+
+**Highlights**
+
+* Custom WordPress theme
+* Dynamic content management
+* SEO/Performance optimization
+
+[Website](https://connectdigital.global/)
+  
+<br/>
+</td>
+</tr>
+</table>
+
+> **Disclaimer:** The projects listed above represent work that I contributed to during their development and delivery phases. Websites and platforms may have been modified, redesigned, maintained, migrated, or updated by clients, internal teams, or third parties after project completion. As a result, current implementations, functionality, performance, content, design, or technical architecture may differ from the original work delivered.
+
+---
+
+## 📸 Personal Projects
+
+<table>
+<tr>
+<td width="25%">
+
+<img src="images/lifestyle-manager.png">
+<br>
+
+###  LifeStyle Manager
+
+Managing your finances, health, tasks, habits, and more.
+
+Laravel + React + MySQL
+
+✔ Personal Use Tools     
+✔ Dashboard Analytics    
+✔ Charts & Reports    
+
+![Private Project](https://img.shields.io/badge/Project-Private-red)
+</td>
+
+<td width="25%">
+
+<img src="images/lifestyle-manager.png">
+<br>
+
+### Orbit
+
+A visual life management tool
+
+Next.js + PostgreSQL  + Tailwind
+
+✔ User Management  
+✔ Physics-driven canvas    
+✔ Live persistence    
+
+![Status](https://img.shields.io/badge/Status-Beta-green)
+
+</td>
+
+<td width="25%">
+
+<img src="images/lifestyle-manager.png">
+<br>
+
+### CookLab
+
+Personal recipe generator
+
+Next.js + SQLite  + Groq Api
+
+✔ Pantry manager     
+✔ Scheduled delivery    
+✔ Preferences + History  
+
+![Status](https://img.shields.io/badge/Status-In_Development-blue)
+
+</td>
+
+<td width="25%">
+
+<img src="images/lifestyle-manager.png">
+<br>
+
+### PastDot
+
+Personal & World memories visualisation web app
+
+React + SQLite  + Vite
+
+✔ User Management       
+✔ Historical world events   
+✔ Stats strip + Sidebar offscreen    
+
+![Status](https://img.shields.io/badge/Status-In_Development-blue)
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎯 Highlights
 
 - 5+ years building WordPress solutions
@@ -97,123 +246,6 @@ Open To:
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![ACF](https://img.shields.io/badge/Advanced_Custom_Fields-00A0D2?style=for-the-badge)
 ![WP REST API](https://img.shields.io/badge/WP_REST_API-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
-
-## 🏢 Professional Projects
-
-### 🛒 E-Commerce Store
-
-[Website](https://toranja.com/)
-
-**Highlights**
-
-* Product customization tool
-* Custom artwork overlay system
-* WooCommerce integration
-
----
-
-### 🏭 Industrial Sector Website
-
-[Website](https://mapengenhariaeconstrucao.pt/)
-
-**Highlights**
-
-* Multi-level taxonomy architecture
-* Advanced search and filtering
-* Custom content management workflow
-
----
-
-### 💊 Healthcare Platform
-
-[Website](https://preveris.pt/)
-
-**Highlights**
-
-* External API integration
-* Complaints submission workflow
-* Custom form processing
-
----
-
-### 🏠 Corporate Website
-
-[Website](https://connectdigital.global/)
-
-**Highlights**
-
-* Custom WordPress theme
-* Dynamic content management
-* SEO/Performance optimization
-
-
----
-
-## 📸 Personal Projects
-
-<table>
-<tr>
-<td width="50%">
-
-###  LifeStyle Manager
-
-Managing your finances, health, tasks, habits, and more.
-
-Laravel + React + MySQL
-
-✔ Personal Use Tools     
-✔ Dashboard Analytics    
-✔ Charts & Reports    
-
-</td>
-
-<td width="50%">
-
-### Orbit
-
-A visual life management tool
-
-Next.js + PostgreSQL  + Tailwind
-
-✔ User Management  
-✔ Physics-driven canvas    
-✔ Live persistence    
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### CookLab
-
-Personal recipe generator
-
-Next.js + SQLite  + Groq Api
-
-✔ Pantry manager     
-✔ Scheduled delivery    
-✔ Preferences + History    
-
-</td>
-
-<td width="50%">
-
-### PastDot
-
-Personal & World memories visualisation web app
-
-React + SQLite  + Vite
-
-✔ User Management       
-✔ Historical world events   
-✔ Stats strip + Sidebar offscreen    
-
-</td>
-</tr>
-</table>
 
 ---
 
