@@ -1,7 +1,7 @@
 
 <h2 align="left">
   👨🏻‍💻 Fullstack Developer
-</h3>
+</h2>
 
 <p align="left">
 Fullstack developer focused on custom WordPress development, Laravel applications, API integrations, and business automation. 
@@ -35,6 +35,16 @@ Open To:
   - Freelance Projects
   - Technical Challenges (not live coding) 🫠
 ```
+
+---
+
+## 🎯 Highlights
+
+- 5+ years building WordPress solutions
+- Custom plugins and Gutenberg blocks
+- REST API and third-party integrations
+- Laravel and React applications
+- Business automation and workflow systems
 
 ---
 
@@ -90,8 +100,53 @@ Open To:
 
 ---
 
-## 🏢 Company Related Works
+## 🏢 Professional Projects
 
+### 🛒 E-Commerce Store
+
+[Website](https://toranja.com/)
+
+**Highlights**
+
+* Product customization tool
+* Custom artwork overlay system
+* WooCommerce integration
+
+---
+
+### 🏭 Industrial Sector Website
+
+[Website](https://mapengenhariaeconstrucao.pt/)
+
+**Highlights**
+
+* Multi-level taxonomy architecture
+* Advanced search and filtering
+* Custom content management workflow
+
+---
+
+### 💊 Healthcare Platform
+
+[Website](https://preveris.pt/)
+
+**Highlights**
+
+* External API integration
+* Complaints submission workflow
+* Custom form processing
+
+---
+
+### 🏠 Corporate Website
+
+[Website](https://connectdigital.global/)
+
+**Highlights**
+
+* Custom WordPress theme
+* Dynamic content management
+* SEO/Performance optimization
 
 
 ---
@@ -100,7 +155,7 @@ Open To:
 
 <table>
 <tr>
-<td width="25%">
+<td width="50%">
 
 ###  LifeStyle Manager
 
@@ -114,21 +169,23 @@ Laravel + React + MySQL
 
 </td>
 
-<td width="25%">
+<td width="50%">
 
 ### Orbit
 
 A visual life management tool
 
-Next.js + Postgress  + Tailwind
+Next.js + PostgreSQL  + Tailwind
 
 ✔ User Management  
 ✔ Physics-driven canvas    
 ✔ Live persistence    
 
 </td>
+</tr>
 
-<td width="25%">
+<tr>
+<td width="50%">
 
 ### CookLab
 
@@ -142,7 +199,7 @@ Next.js + SQLite  + Groq Api
 
 </td>
 
-<td width="25%">
+<td width="50%">
 
 ### PastDot
 
@@ -175,12 +232,11 @@ React + SQLite  + Vite
 ## ⚙️ Developer Mindset
 
 ```yaml
-# Build things that solve real problems.
-# Prefer maintainability over cleverness.
-# Prefer clarity over complexity.
-# Prefer shipping over perfection.
-# Good code survives deadlines.
-# Great code survives developers.
+# Solve the problem before scaling it.
+# Simple beats clever.
+# Working software beats perfect plans.
+# Automate repetitive work.
+# Leave the codebase better than you found it.
 ```
 ---
 
@@ -197,7 +253,3 @@ React + SQLite  + Vite
 </a>
 
 </p>
-
----
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
