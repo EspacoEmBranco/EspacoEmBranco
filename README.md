@@ -109,9 +109,9 @@ Open To:
 
 <table>
 <tr>
-<td width="25%">
+<td width="50%">
 
-<img src="images/lifestyle-manager.png">
+<img src="./assets/cubo.png">
 <br>
 
 ###  LifeStyle Manager
@@ -127,9 +127,9 @@ Laravel + React + MySQL
 ![Private Project](https://img.shields.io/badge/Project-Private-red)
 </td>
 
-<td width="25%">
+<td width="50%">
 
-<img src="images/lifestyle-manager.png">
+<img src="./assets/orbit.png">
 <br>
 
 ### Orbit
@@ -145,10 +145,11 @@ Next.js + PostgreSQL  + Tailwind
 ![Status](https://img.shields.io/badge/Status-Beta-green)
 
 </td>
+</tr>
+<tr>
+<td width="50%">
 
-<td width="25%">
-
-<img src="images/lifestyle-manager.png">
+<img src="./assets/cooklab.png">
 <br>
 
 ### CookLab
@@ -165,9 +166,9 @@ Next.js + SQLite  + Groq Api
 
 </td>
 
-<td width="25%">
+<td width="50%">
 
-<img src="images/lifestyle-manager.png">
+<img src="./assets/pastdot.png">
 <br>
 
 ### PastDot
