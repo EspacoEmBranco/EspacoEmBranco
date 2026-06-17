@@ -149,7 +149,7 @@ Next.js + PostgreSQL  + Tailwind
 <tr>
 <td width="50%">
 
-<img src="./assets/cooklab.png">
+<img src="./assets/cooklab.png?v5">
 <br>
 
 ### CookLab
